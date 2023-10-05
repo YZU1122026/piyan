@@ -1,0 +1,7 @@
+#include <Windows.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <time.h>
+BlockInput(true);
+Sleep (600000);
